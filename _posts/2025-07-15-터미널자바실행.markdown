@@ -1,0 +1,56 @@
+---
+layout: post
+title: 내용요약
+date: 2025-07-15 17:13:30 +0900
+category: anyang-university
+---
+# ✅ 1. 자바 파일 실행 요약 (터미널 기반)
+
+## 1-1. 파일 저장
+
+- 실행할 코드를 `First.java`라는 이름으로 저장
+    
+    → 클래스 이름과 파일 이름은 **반드시 동일**해야 함
+    
+
+## 1-2. 컴파일 (바이트코드 생성)
+
+- 자바 소스코드를 `.class` 파일로 변환하는 과정:
+
+```bash
+
+javac First.java
+
+```
+
+- 성공 시 같은 폴더에 `First.class` 생성됨
+
+## 1-3. 실행 순서 요약
+
+1. **`src` 폴더로 이동**
+    
+    ```bash
+    
+    cd 경로/src
+    
+    ```
+    
+2. **패키지 명이 있을 경우** 예: `package first;`
+    
+    → `java first.First`로 실행
+    
+    ```bash
+    
+    java first.First
+    
+    ```
+    
+3. **패키지 명이 없을 경우 (default package)**
+    
+    → 그냥 `java First`로 실행
+    
+    ```bash
+    
+    java First
+    
+    ```
