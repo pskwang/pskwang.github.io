@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 내용요약
+title: 터미널자바실행
 date: 2025-07-15 17:13:30 +0900
 category: anyang-university
 ---
