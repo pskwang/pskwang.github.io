@@ -4,7 +4,6 @@ title: post-sample
 date: 2025-07-015 17:13:30 +0900
 category: sample
 ---
-# post-sample
 > # 1. 강의 개요 및 강사 정보
 
 - **강사명:** 정대호
