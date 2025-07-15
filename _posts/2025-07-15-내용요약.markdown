@@ -2,7 +2,7 @@
 layout: post
 title: 내용요약
 date: 2025-07-15 17:13:30 +0900
-category: 안양대교육
+category: anyang-university
 ---
 # 오늘내용요약
 >  1. 강의 개요 및 강사 정보
