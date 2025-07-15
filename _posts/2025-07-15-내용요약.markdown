@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-07-15
+title: 내용요약
 date: 2025-07-15 17:13:30 +0900
 category: sample
 ---
