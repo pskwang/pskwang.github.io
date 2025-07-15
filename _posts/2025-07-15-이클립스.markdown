@@ -2,7 +2,7 @@
 layout: post
 title: 이클립스
 date: 2025-07-15 17:13:30 +0900
-category: sample
+category: 안양대교육
 ---
  ✅ 1. Eclipse 사용 개요
 
